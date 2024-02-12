@@ -1,0 +1,22 @@
+#space-btn{
+
+    width: 180px;
+}
+ .btn{
+
+    box-shadow: 7px 7px rgb(170, 198, 207);
+  color: black;
+}
+.side-btn{
+
+    background-color: rgb(205, 209, 200);
+    border: none;
+}
+
+#key-display {
+    word-wrap: break-word;
+}
+#key-bord{
+
+    display: flex;
+}
